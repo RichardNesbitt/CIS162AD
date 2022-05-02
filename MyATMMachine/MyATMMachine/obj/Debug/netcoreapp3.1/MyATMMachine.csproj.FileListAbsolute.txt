@@ -1,0 +1,13 @@
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/bin/Debug/netcoreapp3.1/MyATMMachine.deps.json
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/bin/Debug/netcoreapp3.1/MyATMMachine.runtimeconfig.json
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/bin/Debug/netcoreapp3.1/MyATMMachine.runtimeconfig.dev.json
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/bin/Debug/netcoreapp3.1/MyATMMachine.dll
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/bin/Debug/netcoreapp3.1/MyATMMachine.pdb
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/obj/Debug/netcoreapp3.1/MyATMMachine.csproj.AssemblyReference.cache
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/obj/Debug/netcoreapp3.1/MyATMMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/obj/Debug/netcoreapp3.1/MyATMMachine.AssemblyInfoInputs.cache
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/obj/Debug/netcoreapp3.1/MyATMMachine.AssemblyInfo.cs
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/obj/Debug/netcoreapp3.1/MyATMMachine.csproj.CoreCompileInputs.cache
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/obj/Debug/netcoreapp3.1/MyATMMachine.dll
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/obj/Debug/netcoreapp3.1/MyATMMachine.pdb
+/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/obj/Debug/netcoreapp3.1/MyATMMachine.genruntimeconfig.cache
