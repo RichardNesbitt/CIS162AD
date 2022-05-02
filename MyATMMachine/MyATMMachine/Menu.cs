@@ -180,12 +180,16 @@ namespace MyATMMachine
 
             string Selection = Console.ReadLine();
             if (Selection == "1") {
-                Console.WriteLine("This option hasn't been built yet.");
+                Console.WriteLine($"Your account balance is: {account.GetAccountBalance()}");
                 PromptNPause();
                 DisplayCustomerMenu(account);
             }
             else if (Selection == "2") {
-                Console.WriteLine("This option hasn't been built yet.");
+                Console.Write("Enter the amount of your deposit: ");
+                var depamt = Double.Parse(Console.ReadLine());
+                var newbal = account.ProcessDeposit(depamt);
+                Console.WriteLine($"Your deposit of {depamt} has been processed.");
+                Console.WriteLine($"Your new balance is: {depamt}");
                 PromptNPause();
                 DisplayCustomerMenu(account);
             }

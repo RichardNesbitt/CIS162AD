@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/MyATMMachine.csproj",
+      "projectUniqueName": "/Users/richardnesbitt/Documents/GitHub/CIS162AD/MyATMMachine/MyATMMachine/MyATMMachine.csproj",
       "projectName": "MyATMMachine",
-      "projectPath": "/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/MyATMMachine.csproj",
+      "projectPath": "/Users/richardnesbitt/Documents/GitHub/CIS162AD/MyATMMachine/MyATMMachine/MyATMMachine.csproj",
       "packagesPath": "/Users/richardnesbitt/.nuget/packages/",
-      "outputPath": "/Users/richardnesbitt/Projects/MyATMMachine/MyATMMachine/obj/",
+      "outputPath": "/Users/richardnesbitt/Documents/GitHub/CIS162AD/MyATMMachine/MyATMMachine/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/richardnesbitt/.config/NuGet/NuGet.Config"

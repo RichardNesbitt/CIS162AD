@@ -39,29 +39,29 @@ namespace MyATMMachine
 
         public string GetAccountAddress()
         {
-            return address;
+            return this.address;
         }
 
 
         public double GetAccountBalance()
         {
-            return balance;
+            return this.balance;
         }
 
         public string GetAccountName()
         {
-            return name;
+            return this.name;
         }
 
         public string GetAccountPin()
         {
-            return pin;
+            return this.pin;
         }
 
-        public string ProcessDeposit(double amt)
+        public double ProcessDeposit(double amt)
         {
-            balance += amt;
-            return $"Deposit successful. Your new balance is {balance}";
+            UpdCustBalance(amt);
+            return this.balance;
         }
 
         public int ProcessWithdrawal(double amt)

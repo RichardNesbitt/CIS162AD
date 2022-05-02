@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{98EDD51F-9C9E-42AA-B394-8A53ABE977D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyATMMachine/Menu.cs">
+    <Files>
+      <File FileName="MyATMMachine/Menu.cs" Line="190" Column="61" />
+      <File FileName="MyATMMachine/Account.cs" Line="64" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyATMMachine" expanded="True">
+            <Node name="MyATMMachine" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Menu.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyATMMachine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
